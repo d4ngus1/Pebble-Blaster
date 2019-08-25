@@ -9,6 +9,7 @@ Material:
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_Name: Trail
   m_Shader: {fileID: 200, guid: 0000000000000000f000000000000000, type: 0}
 =======
@@ -19,10 +20,15 @@ Material:
   m_Name: Shell
   m_Shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
 >>>>>>> parent of 5212a6d... E18. Wave Difficulty.
+=======
+  m_Name: Shell
+  m_Shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+>>>>>>> parent of 5212a6d... E18. Wave Difficulty.
   m_ShaderKeywords: _ALPHABLEND_ON
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
   m_CustomRenderQueue: -1
@@ -32,6 +38,11 @@ Material:
   stringTagMap:
     RenderType: Transparent
 >>>>>>> parent of 53db5bf... Revert "E17. Weapon Variation."
+=======
+  m_CustomRenderQueue: 3000
+  stringTagMap:
+    RenderType: Transparent
+>>>>>>> parent of 5212a6d... E18. Wave Difficulty.
 =======
   m_CustomRenderQueue: 3000
   stringTagMap:
@@ -87,9 +98,12 @@ Material:
     - _GlossyReflections: 1
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     - _InvFade: 1
 =======
 >>>>>>> parent of 53db5bf... Revert "E17. Weapon Variation."
+=======
+>>>>>>> parent of 5212a6d... E18. Wave Difficulty.
 =======
 >>>>>>> parent of 5212a6d... E18. Wave Difficulty.
     - _Metallic: 0
@@ -106,8 +120,11 @@ Material:
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     - _TintColor: {r: 1, g: 1, b: 1, a: 1}
 =======
 >>>>>>> parent of 53db5bf... Revert "E17. Weapon Variation."
+=======
+>>>>>>> parent of 5212a6d... E18. Wave Difficulty.
 =======
 >>>>>>> parent of 5212a6d... E18. Wave Difficulty.
